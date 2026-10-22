@@ -85,7 +85,7 @@ javac -encoding UTF-8 -d out (Get-ChildItem -Recurse src -Filter *.java).FullNam
 
 `PruebasBiblioteca` ejecuta los casos obligatorios del deber y muestra al final `X/N pruebas OK`. Cubre la raíz sola, la estructura inicial, los niveles, la jerarquía inválida, los tres recorridos de SW-E1, el código repetido, el camino de búsqueda, el rango, las inserciones y eliminaciones, los códigos inexistentes, los datos inválidos y el ABB mal formado.
 
-![Captura de PruebasBiblioteca](docs/capturas/pruebas.png)
+![Captura de PruebasBiblioteca](docs/capturas/cap01_pruebas.png)
 
 ## Documentación adicional
 
